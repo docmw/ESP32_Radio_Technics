@@ -8,8 +8,9 @@ Introduced changes:
 -use of the IRremote library for remote operation from any remote control
 -integration with Technics ST-GT350 tuner: FM frequency reading, use of existing buttons, rotary encoder and IR sensor
 -displaying RDS services for FM stations from Technics tuner
+
 To do:
--added FM Tuner mode
+-add FM Tuner mode
 -turning off the FM tuner microcontroller when not in use
 -playing music from DLNA servers
 -play music from Bluetooth
